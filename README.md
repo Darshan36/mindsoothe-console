@@ -36,11 +36,11 @@ mindsoothe-console/
 Install requirements:
 ```bash
 pip install fuzzywuzzy empath
-
+'''
 Run the console bot:
 ```bash
 python console.py
-
+'''
 **Example Conversation**
 
 Bot: Hi, I’m your companion.
