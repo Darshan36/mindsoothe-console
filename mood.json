@@ -1,0 +1,47 @@
+{
+  "Happy / Cheerful": [
+    "happy", "good", "fine", "joyful", "joyous", "jubilant", "lighthearted", "blissful", "cheerful", "radiant", "upbeat", "merry", "gleeful", "carefree", "jolly", "playful", "smiling", "beaming", "elated", "glad", "sunny", "pleased", "ecstatic", "exuberant", "festive", "delighted", "grateful", "buoyant", "spirited", "cheery", "good-humored", "overjoyed", "sparkling", "content", "contented", "mirthful", "euphoric", "thrilled", "on-cloud-nine", "walking-on-air", "glee", "joy", "bliss", "pleasure", "rejoicing", "celebratory", "chipper", "vivacious", "smile", "smiled", "beams", "beamed", "rejoice", "rejoiced", "celebrate", "celebrated", "celebrating", "pleasing", "gladdened", "charmed", "charming"
+  ],
+  "Excited / Energetic": [
+    "excited", "exciting", "enthusiastic", "pumped", "eager", "lively", "vibrant", "hyper", "motivated", "dynamic", "zealous", "passionate", "exhilarated", "sparked", "electrified", "hyped", "animated", "adventurous", "ready", "charged", "stimulated", "high-spirited", "restless", "fiery", "amped", "vigorous", "unstoppable", "ardent", "fervent", "buzzed", "agog", "antsy", "feverish", "impassioned", "invigorated", "roused", "stirred", "wired", "excite", "excites", "thrill", "thrills", "thrilling", "energized", "energizing", "motivating", "stimulate", "stimulates", "stimulating"
+  ],
+  "Loving / Affectionate": [
+    "loving", "love", "loved", "affectionate", "caring", "compassionate", "warmhearted", "tender", "romantic", "friendly", "devoted", "protective", "gentle", "kind", "intimate", "empathetic", "supportive", "attached", "nurturing", "sympathetic", "soft", "trusting", "fond", "hugging", "appreciative", "close", "cherishing", "adoring", "respectful", "embracing", "affable", "doting", "enamored", "infatuated", "smitten", "warm", "tenderhearted", "benevolent", "adoration", "endearment", "fondness", "care", "cares", "cherish", "cherished", "adore", "adored", "embrace", "embraced", "hug", "hugged", "appreciate", "appreciated"
+  ],
+  "Relaxed / Calm": [
+    "relaxed", "calm", "peaceful", "tranquil", "serene", "comfortable", "easygoing", "composed", "harmonious", "balanced", "still", "quiet", "restful", "chill", "unbothered", "meditative", "secure", "reassured", "settled", "untroubled", "cool", "stable", "clear-headed", "at-ease", "loose", "mild", "soothed", "grounded", "placid", "collected", "mellow", "halcyon", "poised", "self-possessed", "limpid", "unruffled", "at-peace", "relax", "relaxes", "calmed", "calming", "soothe", "soothing", "settle", "settling", "unwind", "unwinding", "unwound"
+  ],
+  "Hopeful / Optimistic": [
+    "hopeful", "optimistic", "positive", "expectant", "encouraged", "confident", "assured", "uplifted", "faithful", "reassured", "trusting", "courageous", "ambitious", "dreaming", "forward-looking", "determined", "inspired", "encouraging", "motivated", "believing", "promising", "assuring", "bright", "progressive", "rejuvenated", "aspiring", "driven", "visionary", "sanguine", "bullish", "idealistic", "hope", "hopes", "hoping", "aspire", "aspires", "believe", "believed", "encourage", "inspire", "inspires", "motivate", "motivates", "dream", "dreamed", "dreamt"
+  ],
+  "Sad / Lonely": [
+    "sad", "lonely", "down", "heartbroken", "hurt", "melancholy", "empty", "miserable", "low", "grief-stricken", "blue", "tearful", "lost", "abandoned", "rejected", "hopeless", "crushed", "weary", "depressed", "gloomy", "downcast", "desolate", "homesick", "forlorn", "brokenhearted", "isolated", "pained", "mourning", "dismal", "dejected", "despondent", "sorrowful", "crestfallen", "heavyhearted", "woeful", "somber", "alienated", "estranged", "grieve", "grieving", "grieved", "mourn", "mourned", "cry", "crying", "cried", "wept", "hurting", "sadden", "saddened"
+  ],
+  "Angry / Irritated": [
+    "angry", "irritated", "annoyed", "frustrated", "resentful", "agitated", "hostile", "mad", "rageful", "provoked", "bitter", "enraged", "cross", "snappy", "offended", "fuming", "outraged", "pissed", "heated", "vengeful", "aggressive", "grumpy", "wrathful", "upset", "touchy", "testy", "irate", "stormy", "seething", "incensed", "infuriated", "indignant", "exasperated", "vexed", "piqued", "choleric", "livid", "sore", "anger", "angering", "irritate", "irritating", "frustrate", "frustrating", "enrage", "enraging", "provoke", "provoking"
+  ],
+  "Anxious / Nervous": [
+    "anxious", "nervous", "worried", "uneasy", "tense", "apprehensive", "fearful", "afraid", "panicked", "distressed", "overwhelmed", "concerned", "on-edge", "jittery", "shaken", "stressed", "timid", "doubtful", "dreadful", "shy", "hesitant", "sweaty-palms", "distraught", "alarmed", "high-strung", "paranoid", "fretful", "restive", "neurotic", "frazzled", "perturbed", "troubled", "disquieted", "uptight", "insecure", "jumpy", "worry", "worrying", "fret", "fretting", "panic", "panicking", "stress", "stressing", "fear", "fearing", "dread", "dreading"
+  ],
+  "Jealous / Envious": [
+    "jealous", "envious", "covetous", "possessive", "competitive", "distrustful", "suspicious", "rivalrous", "begrudging", "longing", "green-eyed", "spiteful", "watchful", "overprotective", "territorial", "wary", "invidious", "resentful-of-success", "self-comparing", "yearning-for-what-others-have", "desirous", "grasping", "grudging", "covet", "coveting", "envy", "envied", "begrudge", "begrudged", "distrust", "distrusting"
+  ],
+  "Guilty / Ashamed": [
+    "guilty", "ashamed", "remorseful", "sorry", "apologetic", "humiliated", "self-blaming", "embarrassed", "repentant", "contrite", "exposed", "disgraced", "culpable", "dishonored", "humbled", "weak", "inadequate", "burdened", "unworthy", "self-conscious", "condemned", "ashamed-faced", "mortified", "regretful", "sinful", "defensive", "chagrined", "abashed", "shamefaced", "sheepish", "regret", "regretted", "regretting", "blame", "blaming", "blamed", "humiliate", "humiliated", "apologize", "apologizing", "repent", "repenting"
+  ],
+  "Bored": [
+    "bored", "uninterested", "listless", "apathetic", "weary", "fed-up", "dull", "unmoved", "dreary", "passive", "spiritless", "yawning", "sleepy", "sluggish", "monotonous", "dazed", "daydreaming", "blah", "disinterested", "tedious", "jaded", "lethargic", "ennui", "unstimulated", "uninspired", "world-weary", "bore", "boring", "tire", "tiring", "fatigued", "yawn", "yawned"
+  ],
+  "Indifferent": [
+    "indifferent", "okay", "detached", "cold", "neutral", "careless", "aloof", "numb", "disengaged", "blank", "uncaring", "distant", "impassive", "stoic", "nonchalant", "flat", "withdrawn", "unconcerned", "dispassionate", "unmoved", "unresponsive", "perfunctory", "unemotional", "incurious", "couldn't-care-less", "detach", "disengage", "disengaged"
+  ],
+  "Confused": [
+    "confused", "lost", "puzzled", "unclear", "disoriented", "foggy", "bewildered", "uncertain", "unsure", "confounded", "baffled", "muddled", "perplexed", "clueless", "indecisive", "mixed-up", "blurry", "staggered", "flustered", "bemused", "discombobulated", "jumbled", "obfuscated", "befuddled", "mystified", "confuse", "confusing", "puzzle", "puzzling", "baffle", "baffling", "doubt", "doubting"
+  ],
+  "Thoughtful / Reflective": [
+    "thoughtful", "reflective", "pensive", "meditative", "serious", "contemplative", "philosophical", "deep", "introspective", "considerate", "curious", "wise", "studious", "examining", "analytical", "focused", "musing", "observant", "ruminative", "self-aware", "inquiring", "evaluative", "speculative", "cerebral", "profound", "deliberative", "absorbed", "cogitative", "think", "thinking", "thought", "reflect", "reflecting", "contemplate", "contemplating", "ponder", "pondering", "muse", "mused", "analyze", "analyzing", "examine", "examining"
+  ],
+  "Bittersweet": [
+    "bittersweet", "nostalgic", "melancholy-joy", "happy-sad", "poignant", "mixed-feelings", "wistful", "fond-but-sad", "ambivalent", "heartwarming-yet-painful", "reminiscent", "sorrowful-joy", "yearning", "regretful-love", "loving-sadness", "tearful-smile", "aching-happiness", "hiraeth", "saudade", "yearn", "yearned", "long", "longed", "reminisce", "reminiscing"
+  ]
+}

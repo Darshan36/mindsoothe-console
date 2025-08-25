@@ -1,0 +1,114 @@
+{
+  "work": [
+    "workload", "pressure", "deadlines", "expectations", "overtime", "toxic_workplace", "insecurity",
+    "unfairness", "colleagues", "boss", "manager", "micromanagement", "autonomy", "meetings",
+    "clients", "customers", "overworked", "commute", "office_politics", "performance_review",
+    "raise", "salary", "responsibilities", "tasks", "projects", "management", "teamwork", "layoff",
+    "redundancy", "interview", "job_search", "harassment", "exploitation", "mobbing", "corporate_culture",
+    "achievement", "recognition", "promotion", "collaboration", "team_success", "bonus", "praise",
+    "new_skill", "mentorship", "work_life_balance", "accomplishment", "milestone", "successful_project",
+    "positive_feedback", "job_satisfaction"
+  ],
+  "study": [
+    "exams", "assignments", "competition", "failure", "focus", "time_management", "parental_pressure",
+    "grades", "learning", "presentation", "procrastination", "syllabus", "coursework", "tests",
+    "studying", "homework", "thesis", "dissertation", "school", "college", "university", "tuition",
+    "student_loan", "professor", "teacher", "lecture", "research", "paper", "essay", "plagiarism",
+    "cheating", "dropout", "scholarship", "academia", "graduation", "good_grades", "scholarship_award",
+    "aha_moment", "mastery", "praise_from_teacher", "successful_presentation", "understanding",
+    "academic_award", "research_breakthrough", "completing_thesis", "discovery"
+  ],
+  "relationships": [
+    "arguments", "fights", "conflict", "unloved", "communication", "toxic_friend", "misunderstood",
+    "codependency", "ghosting", "drifting_apart", "people_pleasing", "unwanted", "heartbreak",
+    "betrayal", "disagreement", "tension", "drama", "gaslighting", "manipulation", "abandonment",
+    "disconnection", "attachment", "neediness", "boundaries", "acquaintances", "connection", "support",
+    "love", "friendship", "laughter", "quality_time", "empathy", "understanding", "reconciliation",
+    "making_new_friends", "deep_conversation", "shared_experience", "appreciation", "kindness", "trust"
+  ],
+  "health": [
+    "illness", "fatigue", "exhaustion", "insomnia", "sleep", "unhealthy", "diet", "injury", "fitness",
+    "addiction", "substance_abuse", "body_image", "pain", "sickness", "mental_health", "depression",
+    "anxiety", "stress", "burnout", "medication", "hospital", "doctor", "appointment", "diagnosis",
+    "treatment", "therapy", "surgery", "symptoms", "prescription", "insurance",
+    "healthcare", "trauma", "phobia", "chronic_pain", "wellness", "recovery", "fitness_goal", "good_sleep",
+    "healthy_meal", "relaxation", "mindfulness", "energy", "healing", "self_care", "strength", "progress",
+    "clean_bill_of_health", "rejuvenation", "wellbeing"
+  ],
+  "finance": [
+    "debt", "unemployment", "expenses", "income", "overspending", "budgeting", "savings", "investment",
+    "loss", "bills", "dependency", "poverty", "loans", "credit_card", "rent", "mortgage",
+    "bankruptcy", "financial_stress", "taxes", "inflation", "recession", "stock_market", "scam",
+    "fraud", "credit_score", "foreclosure", "eviction", "wealth", "assets", "liability", "donation",
+    "salary_increase", "bonus", "savings_goal_met", "debt_free", "investment_gain", "financial_security",
+    "windfall", "gift", "successful_budget", "wise_purchase", "financial_independence", "generosity"
+  ],
+  "self_esteem": [
+    "self_talk", "comparison", "judgment", "insecurity", "imposter_syndrome",
+    "worthlessness", "perfectionism", "rejection", "inadequacy", "shame", "guilt", "self_doubt",
+    "criticism", "self_worth", "self_hate", "appearance", "weight", "validation", "approval",
+    "self_sabotage", "vulnerability", "inferiority_complex", "ego", "self_love", "confidence",
+    "pride", "accomplishment", "positive_self_talk", "overcoming_fear", "compliment_received",
+    "body_positivity", "authenticity", "resilience", "self_compassion", "self_acceptance", "self_image"
+  ],
+  "social": [
+    "peer_pressure", "isolation", "loneliness", "fomo", "bullying", "harassment", "exclusion",
+    "social_media", "public_speaking", "gossip", "rumors", "awkwardness", "cliques", "reputation",
+    "stigma", "ostracism", "scandal", "popularity", "conformity", "social_anxiety", "small_talk",
+    "loner", "friends", "social_gathering", "party", "making_friends", "community", "belonging",
+    "acceptance", "positive_interaction", "fun_with_friends", "networking", "team_victory", "shared_hobby"
+  ],
+  "environment": [
+    "noise", "crowds", "messy", "unclean", "weather", "traffic", "unsafe", "pollution", "housing",
+    "commute", "disasters", "clutter", "space", "neighborhood", "city_life", "living_conditions",
+    "gentrification", "urban_decay", "light_pollution", "climate_change", "natural_disaster",
+    "ecology", "sunny_day", "nature_walk", "clean_space", "quiet_moment", "beautiful_view", "gardening",
+    "home_comfort", "vacation", "exploring", "fresh_air", "stargazing", "safety", "sustainability"
+  ],
+  "technology": [
+    "addiction", "cyberbullying", "negativity", "notifications", "distractions", "privacy", "fraud",
+    "gaming", "tech_failure", "online", "internet", "screen_time", "doom_scrolling", "digital_fatigue",
+    "algorithm", "data_breach", "hacking", "malware", "phishing", "trolling", "fake_news",
+    "misinformation", "censorship", "surveillance", "connecting_with_loved_ones", "learning_online",
+    "entertainment", "helpful_app", "creative_tools", "discovering_music", "problem_solved"
+  ],
+  "personal_growth": [
+    "directionless", "purposeless", "stagnation", "regret", "missed_opportunity", "existential_crisis",
+    "unfulfilled", "stuck", "drifting", "midlife_crisis", "ennui", "apathy", "complacency",
+    "comfort_zone", "goals", "change", "priorities", "motivation", "habits", "potential", "purpose",
+    "meaning", "self_discovery", "discipline", "mindset", "epiphany", "breakthrough", "new_perspective",
+    "learning", "skill_mastery", "overcoming_challenge", "inspiration"
+  ],
+  "romantic_life": [
+    "unrequited", "miscommunication", "cheating", "infidelity", "distance", "breakup", "disapproval",
+    "jealousy", "longing", "ex_partner", "trust", "expectations", "commitment", "dating", "partner",
+    "affection", "intimacy", "proposal", "wedding", "honeymoon", "sex_life", "libido", "flirting",
+    "relationship_status", "date_night", "deep_connection", "i_love_you", "shared_dream", "thoughtful_gesture"
+  ],
+  "family": [
+    "parents", "siblings", "rivalry", "divorce", "separation", "grief", "loss", "controlling",
+    "neglect", "caregiving", "relatives", "in_laws", "inheritance", "custody", "adoption",
+    "blended_family", "estrangement", "abuse", "childhood", "upbringing", "dysfunction", "support",
+    "family_gathering", "quality_time", "shared_laughter", "reunion", "celebration", "making_memories",
+    "pride_in_family", "new_addition", "reconciliation", "family_tradition", "kinship", "ancestry"
+  ],
+  "career": [
+    "unemployed", "underemployed", "dissatisfied", "toxic_boss", "politics", "relocation", "job_search",
+    "interview", "layoff", "fired", "sabbatical", "freelance", "gig_economy", "automation",
+    "obsolescence", "resume", "cover_letter", "promotion", "career_path", "salary", "mentor", "profession",
+    "vocation", "industry", "advancement", "new_job", "dream_job", "raise", "career_milestone",
+    "successful_project", "positive_feedback", "skill_development", "recognition"
+  ],
+  "identity": [
+    "discrimination", "prejudice", "stereotype", "fitting_in", "assimilation", "privilege",
+    "intersectionality", "microaggression", "cultural_identity", "gender", "sexuality", "orientation",
+    "acceptance", "belonging", "values", "beliefs", "self_expression", "authenticity", "heritage", "roots",
+    "nationality", "ethnicity", "ideology", "worldview", "pride", "community_support", "cultural_celebration"
+  ],
+  "life_events": [
+    "death", "moving", "accident", "illness", "diagnosis", "legal_trouble", "lawsuit", "tragedy",
+    "crisis", "marriage", "college", "new_job", "retirement", "parenthood", "birth", "adolescence",
+    "adulthood", "aging", "milestone", "transition", "opportunity", "ceremony", "anniversary",
+    "reunion", "fortune", "new_home", "graduation", "vacation", "new_pet", "personal_achievement"
+  ]
+}
