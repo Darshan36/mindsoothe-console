@@ -140,7 +140,7 @@ if st.session_state.stage == "CONVERSATION_END":
             mime="text/plain"
         )
 
-# --- REMOVED: The old download button location was removed from here ---
+
 
 if prompt := st.chat_input("How are you feeling?", disabled=(st.session_state.stage == "CONVERSATION_END")):
     st.session_state.messages.append({"role": "user", "content": prompt})
